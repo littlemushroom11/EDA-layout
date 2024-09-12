@@ -13,8 +13,6 @@
 
 #### 强化学习
 
-- main.py为主程序
+- main_3_0.py为主程序
 
-- 使用ISPD数据集
-
-- test.nodes，test.nets，test.pl为测试用例
+- .nodes文件是数据集样本文件
