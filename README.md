@@ -13,6 +13,8 @@
 
 #### 强化学习
 
-- main_3_0.py为主程序
+- main为主程序
+- test.nets,test.nodes,test.pl是测试文件
+- nets_file.py用来读取线网数据集
+- parse_node_pl.py用来读取节点信息
 
-- .nodes文件是数据集样本文件
