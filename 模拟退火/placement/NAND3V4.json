@@ -1,0 +1,100 @@
+{
+    "placement": {
+        "M2": {
+            "x": "5",
+            "y": "1",
+            "source": "VDD",
+            "gate": "A3",
+            "drain": "ZN",
+            "width": "200"
+        },
+        "M2_finger1": {
+            "x": "0",
+            "y": "1",
+            "source": "ZN",
+            "gate": "A3",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M0": {
+            "x": "1",
+            "y": "1",
+            "source": "VDD",
+            "gate": "A2",
+            "drain": "ZN",
+            "width": "200"
+        },
+        "M0_finger1": {
+            "x": "4",
+            "y": "1",
+            "source": "ZN",
+            "gate": "A2",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "MP1": {
+            "x": "2",
+            "y": "1",
+            "source": "ZN",
+            "gate": "A1",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "MP1_finger1": {
+            "x": "7",
+            "y": "1",
+            "source": "ZN",
+            "gate": "A1",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M1": {
+            "x": "7",
+            "y": "0",
+            "source": "net18",
+            "gate": "A1",
+            "drain": "ZN",
+            "width": "200"
+        },
+        "M1_finger1": {
+            "x": "2",
+            "y": "0",
+            "source": "net18",
+            "gate": "A1",
+            "drain": "ZN",
+            "width": "200"
+        },
+        "M3": {
+            "x": "0",
+            "y": "0",
+            "source": "VSS",
+            "gate": "A3",
+            "drain": "net022",
+            "width": "200"
+        },
+        "M3_finger1": {
+            "x": "5",
+            "y": "0",
+            "source": "net022",
+            "gate": "A3",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "MN1": {
+            "x": "4",
+            "y": "0",
+            "source": "net18",
+            "gate": "A2",
+            "drain": "net022",
+            "width": "200"
+        },
+        "MN1_finger1": {
+            "x": "1",
+            "y": "0",
+            "source": "net022",
+            "gate": "A2",
+            "drain": "net18",
+            "width": "200"
+        }
+    }
+}

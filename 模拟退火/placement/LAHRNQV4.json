@@ -1,0 +1,172 @@
+{
+    "placement": {
+        "M1": {
+            "x": "0",
+            "y": "1",
+            "source": "VDD",
+            "gate": "EN",
+            "drain": "net67",
+            "width": "200"
+        },
+        "M12": {
+            "x": "5",
+            "y": "1",
+            "source": "net67",
+            "gate": "D",
+            "drain": "net108",
+            "width": "200"
+        },
+        "M19": {
+            "x": "2",
+            "y": "1",
+            "source": "net108",
+            "gate": "RDN",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M5": {
+            "x": "3",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net108",
+            "drain": "net92",
+            "width": "120"
+        },
+        "M8": {
+            "x": "7",
+            "y": "1",
+            "source": "net51",
+            "gate": "net92",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M7": {
+            "x": "6",
+            "y": "1",
+            "source": "net108",
+            "gate": "ENN",
+            "drain": "net51",
+            "width": "120"
+        },
+        "M14": {
+            "x": "11",
+            "y": "1",
+            "source": "Q",
+            "gate": "net108",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M14_finger1": {
+            "x": "10",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net108",
+            "drain": "Q",
+            "width": "200"
+        },
+        "M3": {
+            "x": "8",
+            "y": "1",
+            "source": "VDD",
+            "gate": "EN",
+            "drain": "ENN",
+            "width": "200"
+        },
+        "M11": {
+            "x": "12",
+            "y": "1",
+            "source": "VDD",
+            "gate": "E",
+            "drain": "EN",
+            "width": "120"
+        },
+        "M15": {
+            "x": "11",
+            "y": "0",
+            "source": "Q",
+            "gate": "net108",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M15_finger1": {
+            "x": "10",
+            "y": "0",
+            "source": "VSS",
+            "gate": "net108",
+            "drain": "Q",
+            "width": "200"
+        },
+        "M0": {
+            "x": "0",
+            "y": "0",
+            "source": "ENN",
+            "gate": "EN",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M16": {
+            "x": "2",
+            "y": "0",
+            "source": "net104",
+            "gate": "RDN",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M10": {
+            "x": "12",
+            "y": "0",
+            "source": "VSS",
+            "gate": "E",
+            "drain": "EN",
+            "width": "120"
+        },
+        "M2": {
+            "x": "5",
+            "y": "0",
+            "source": "net104",
+            "gate": "D",
+            "drain": "net100",
+            "width": "200"
+        },
+        "M4": {
+            "x": "3",
+            "y": "0",
+            "source": "VSS",
+            "gate": "net108",
+            "drain": "net92",
+            "width": "120"
+        },
+        "M18": {
+            "x": "9",
+            "y": "0",
+            "source": "net96",
+            "gate": "RDN",
+            "drain": "VSS",
+            "width": "120"
+        },
+        "M9": {
+            "x": "8",
+            "y": "0",
+            "source": "net88",
+            "gate": "EN",
+            "drain": "net96",
+            "width": "120"
+        },
+        "M13": {
+            "x": "6",
+            "y": "0",
+            "source": "net100",
+            "gate": "ENN",
+            "drain": "net108",
+            "width": "200"
+        },
+        "M6": {
+            "x": "7",
+            "y": "0",
+            "source": "net108",
+            "gate": "net92",
+            "drain": "net88",
+            "width": "120"
+        }
+    }
+}

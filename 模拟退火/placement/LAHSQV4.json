@@ -1,0 +1,172 @@
+{
+    "placement": {
+        "M17": {
+            "x": "0",
+            "y": "1",
+            "source": "ENN",
+            "gate": "EN",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M11": {
+            "x": "16",
+            "y": "1",
+            "source": "VDD",
+            "gate": "E",
+            "drain": "EN",
+            "width": "120"
+        },
+        "M14": {
+            "x": "3",
+            "y": "1",
+            "source": "Q",
+            "gate": "net169",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M14_finger1": {
+            "x": "15",
+            "y": "1",
+            "source": "Q",
+            "gate": "net169",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M19": {
+            "x": "5",
+            "y": "1",
+            "source": "net136",
+            "gate": "SD",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M18": {
+            "x": "7",
+            "y": "1",
+            "source": "net136",
+            "gate": "EN",
+            "drain": "net132",
+            "width": "200"
+        },
+        "M1": {
+            "x": "8",
+            "y": "1",
+            "source": "net132",
+            "gate": "D",
+            "drain": "net169",
+            "width": "200"
+        },
+        "M5": {
+            "x": "10",
+            "y": "1",
+            "source": "net165",
+            "gate": "net169",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M21": {
+            "x": "11",
+            "y": "1",
+            "source": "VDD",
+            "gate": "SD",
+            "drain": "net156",
+            "width": "120"
+        },
+        "M7": {
+            "x": "13",
+            "y": "1",
+            "source": "net160",
+            "gate": "ENN",
+            "drain": "net169",
+            "width": "120"
+        },
+        "M8": {
+            "x": "12",
+            "y": "1",
+            "source": "net156",
+            "gate": "net165",
+            "drain": "net160",
+            "width": "120"
+        },
+        "M10": {
+            "x": "16",
+            "y": "0",
+            "source": "VSS",
+            "gate": "E",
+            "drain": "EN",
+            "width": "120"
+        },
+        "M2": {
+            "x": "2",
+            "y": "0",
+            "source": "net169",
+            "gate": "ENN",
+            "drain": "net173",
+            "width": "200"
+        },
+        "M9": {
+            "x": "0",
+            "y": "0",
+            "source": "net193",
+            "gate": "EN",
+            "drain": "VSS",
+            "width": "120"
+        },
+        "M6": {
+            "x": "4",
+            "y": "0",
+            "source": "net169",
+            "gate": "net165",
+            "drain": "net193",
+            "width": "120"
+        },
+        "M20": {
+            "x": "6",
+            "y": "0",
+            "source": "net173",
+            "gate": "D",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M13": {
+            "x": "7",
+            "y": "0",
+            "source": "VSS",
+            "gate": "EN",
+            "drain": "ENN",
+            "width": "200"
+        },
+        "M22": {
+            "x": "11",
+            "y": "0",
+            "source": "VSS",
+            "gate": "SD",
+            "drain": "net169",
+            "width": "120"
+        },
+        "M15": {
+            "x": "10",
+            "y": "0",
+            "source": "Q",
+            "gate": "net169",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M15_finger1": {
+            "x": "9",
+            "y": "0",
+            "source": "VSS",
+            "gate": "net169",
+            "drain": "Q",
+            "width": "200"
+        },
+        "M4": {
+            "x": "15",
+            "y": "0",
+            "source": "net165",
+            "gate": "net169",
+            "drain": "VSS",
+            "width": "120"
+        }
+    }
+}

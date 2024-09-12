@@ -1,0 +1,180 @@
+{
+    "placement": {
+        "M6": {
+            "x": "11",
+            "y": "1",
+            "source": "N4",
+            "gate": "N2",
+            "drain": "VDDS",
+            "width": "170"
+        },
+        "M9": {
+            "x": "7",
+            "y": "1",
+            "source": "VDDS",
+            "gate": "N3",
+            "drain": "N1",
+            "width": "120"
+        },
+        "M4": {
+            "x": "4",
+            "y": "1",
+            "source": "Z",
+            "gate": "N3",
+            "drain": "VDDS",
+            "width": "170"
+        },
+        "M4_2": {
+            "x": "3",
+            "y": "1",
+            "source": "VDDS",
+            "gate": "N3",
+            "drain": "Z",
+            "width": "170"
+        },
+        "M0": {
+            "x": "6",
+            "y": "1",
+            "source": "Z",
+            "gate": "NSLEEP",
+            "drain": "VDDS",
+            "width": "170"
+        },
+        "M16": {
+            "x": "13",
+            "y": "1",
+            "source": "N2",
+            "gate": "N0",
+            "drain": "N1",
+            "width": "120"
+        },
+        "M14": {
+            "x": "0",
+            "y": "1",
+            "source": "N0",
+            "gate": "I",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "M17": {
+            "x": "9",
+            "y": "1",
+            "source": "N3",
+            "gate": "I",
+            "drain": "N4",
+            "width": "170"
+        },
+        "M2": {
+            "x": "0",
+            "y": "0",
+            "source": "N0",
+            "gate": "I",
+            "drain": "N5",
+            "width": "140"
+        },
+        "M5": {
+            "x": "3",
+            "y": "0",
+            "source": "N5",
+            "gate": "N3",
+            "drain": "Z",
+            "width": "140"
+        },
+        "M5_2": {
+            "x": "4",
+            "y": "0",
+            "source": "Z",
+            "gate": "N3",
+            "drain": "N5",
+            "width": "140"
+        },
+        "M12": {
+            "x": "2",
+            "y": "0",
+            "source": "VSS",
+            "gate": "NSLEEP",
+            "drain": "N5",
+            "width": "140"
+        },
+        "M12_2": {
+            "x": "5",
+            "y": "0",
+            "source": "N5",
+            "gate": "NSLEEP",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M12_3": {
+            "x": "1",
+            "y": "0",
+            "source": "N5",
+            "gate": "NSLEEP",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M12_4": {
+            "x": "6",
+            "y": "0",
+            "source": "VSS",
+            "gate": "NSLEEP",
+            "drain": "N5",
+            "width": "140"
+        },
+        "M12_5": {
+            "x": "15",
+            "y": "0",
+            "source": "N5",
+            "gate": "NSLEEP",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M15": {
+            "x": "8",
+            "y": "0",
+            "source": "N5",
+            "gate": "I",
+            "drain": "N3",
+            "width": "140"
+        },
+        "M15_2": {
+            "x": "9",
+            "y": "0",
+            "source": "N3",
+            "gate": "I",
+            "drain": "N5",
+            "width": "140"
+        },
+        "M15_3": {
+            "x": "10",
+            "y": "0",
+            "source": "N5",
+            "gate": "I",
+            "drain": "N3",
+            "width": "140"
+        },
+        "M10": {
+            "x": "12",
+            "y": "0",
+            "source": "N2",
+            "gate": "N0",
+            "drain": "N5",
+            "width": "140"
+        },
+        "M10_2": {
+            "x": "13",
+            "y": "0",
+            "source": "N5",
+            "gate": "N0",
+            "drain": "N2",
+            "width": "140"
+        },
+        "M10_3": {
+            "x": "14",
+            "y": "0",
+            "source": "N2",
+            "gate": "N0",
+            "drain": "N5",
+            "width": "140"
+        }
+    }
+}

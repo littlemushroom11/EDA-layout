@@ -1,0 +1,116 @@
+{
+    "placement": {
+        "M39": {
+            "x": "0",
+            "y": "1",
+            "source": "net39",
+            "gate": "S",
+            "drain": "net_65",
+            "width": "160"
+        },
+        "M54": {
+            "x": "7",
+            "y": "1",
+            "source": "VDD",
+            "gate": "S",
+            "drain": "net43",
+            "width": "120"
+        },
+        "M32": {
+            "x": "10",
+            "y": "1",
+            "source": "VDD",
+            "gate": "I1",
+            "drain": "net41",
+            "width": "160"
+        },
+        "M48": {
+            "x": "2",
+            "y": "1",
+            "source": "net41",
+            "gate": "net43",
+            "drain": "net_65",
+            "width": "160"
+        },
+        "M52": {
+            "x": "9",
+            "y": "1",
+            "source": "Z",
+            "gate": "net_65",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M52_finger1": {
+            "x": "4",
+            "y": "1",
+            "source": "Z",
+            "gate": "net_65",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M50": {
+            "x": "6",
+            "y": "1",
+            "source": "net39",
+            "gate": "I0",
+            "drain": "VDD",
+            "width": "160"
+        },
+        "M31": {
+            "x": "1",
+            "y": "0",
+            "source": "net41",
+            "gate": "I1",
+            "drain": "VSS",
+            "width": "160"
+        },
+        "M49": {
+            "x": "6",
+            "y": "0",
+            "source": "net39",
+            "gate": "I0",
+            "drain": "VSS",
+            "width": "160"
+        },
+        "M51": {
+            "x": "9",
+            "y": "0",
+            "source": "Z",
+            "gate": "net_65",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M51_finger1": {
+            "x": "3",
+            "y": "0",
+            "source": "Z",
+            "gate": "net_65",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M47": {
+            "x": "0",
+            "y": "0",
+            "source": "net_65",
+            "gate": "S",
+            "drain": "net41",
+            "width": "200"
+        },
+        "M36": {
+            "x": "5",
+            "y": "0",
+            "source": "net_65",
+            "gate": "net43",
+            "drain": "net39",
+            "width": "160"
+        },
+        "M53": {
+            "x": "7",
+            "y": "0",
+            "source": "VSS",
+            "gate": "S",
+            "drain": "net43",
+            "width": "120"
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "placement": {
+        "M10": {
+            "x": "9",
+            "y": "1",
+            "source": "Z",
+            "gate": "net21",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M10_finger1": {
+            "x": "8",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net21",
+            "drain": "Z",
+            "width": "200"
+        },
+        "M7": {
+            "x": "1",
+            "y": "1",
+            "source": "net21",
+            "gate": "A1",
+            "drain": "net32",
+            "width": "200"
+        },
+        "M6": {
+            "x": "3",
+            "y": "1",
+            "source": "net32",
+            "gate": "A2",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M3": {
+            "x": "5",
+            "y": "1",
+            "source": "net49",
+            "gate": "A3",
+            "drain": "net21",
+            "width": "200"
+        },
+        "M0": {
+            "x": "7",
+            "y": "1",
+            "source": "net49",
+            "gate": "A2",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M1": {
+            "x": "4",
+            "y": "1",
+            "source": "VDD",
+            "gate": "A1",
+            "drain": "net49",
+            "width": "200"
+        },
+        "M9": {
+            "x": "0",
+            "y": "0",
+            "source": "VSS",
+            "gate": "A2",
+            "drain": "net13",
+            "width": "200"
+        },
+        "M8": {
+            "x": "1",
+            "y": "0",
+            "source": "net13",
+            "gate": "A1",
+            "drain": "net21",
+            "width": "200"
+        },
+        "M5": {
+            "x": "3",
+            "y": "0",
+            "source": "net9",
+            "gate": "A2",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M2": {
+            "x": "4",
+            "y": "0",
+            "source": "VSS",
+            "gate": "A1",
+            "drain": "net9",
+            "width": "200"
+        },
+        "M4": {
+            "x": "5",
+            "y": "0",
+            "source": "net9",
+            "gate": "A3",
+            "drain": "net21",
+            "width": "200"
+        },
+        "M11": {
+            "x": "9",
+            "y": "0",
+            "source": "VSS",
+            "gate": "net21",
+            "drain": "Z",
+            "width": "200"
+        },
+        "M11_finger1": {
+            "x": "8",
+            "y": "0",
+            "source": "Z",
+            "gate": "net21",
+            "drain": "VSS",
+            "width": "200"
+        }
+    }
+}

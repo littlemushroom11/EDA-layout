@@ -1,0 +1,52 @@
+{
+    "placement": {
+        "M4": {
+            "x": "5",
+            "y": "1",
+            "source": "VDD",
+            "gate": "I",
+            "drain": "net8",
+            "width": "170"
+        },
+        "M1": {
+            "x": "2",
+            "y": "1",
+            "source": "Z",
+            "gate": "net8",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "M1_2": {
+            "x": "4",
+            "y": "1",
+            "source": "Z",
+            "gate": "net8",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "M5": {
+            "x": "0",
+            "y": "0",
+            "source": "net8",
+            "gate": "I",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M0": {
+            "x": "2",
+            "y": "0",
+            "source": "Z",
+            "gate": "net8",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M0_2": {
+            "x": "4",
+            "y": "0",
+            "source": "Z",
+            "gate": "net8",
+            "drain": "VSS",
+            "width": "140"
+        }
+    }
+}

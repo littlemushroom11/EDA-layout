@@ -1,0 +1,276 @@
+{
+    "placement": {
+        "M15": {
+            "x": "8",
+            "y": "1",
+            "source": "net181",
+            "gate": "cn",
+            "drain": "net170",
+            "width": "200"
+        },
+        "M23": {
+            "x": "3",
+            "y": "1",
+            "source": "Q",
+            "gate": "net146",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M23_finger1": {
+            "x": "1",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net146",
+            "drain": "Q",
+            "width": "200"
+        },
+        "M11": {
+            "x": "0",
+            "y": "1",
+            "source": "cn",
+            "gate": "CK",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M13": {
+            "x": "5",
+            "y": "1",
+            "source": "c",
+            "gate": "cn",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M19": {
+            "x": "6",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net146",
+            "drain": "net130",
+            "width": "120"
+        },
+        "M20": {
+            "x": "7",
+            "y": "1",
+            "source": "net130",
+            "gate": "c",
+            "drain": "net181",
+            "width": "120"
+        },
+        "M24": {
+            "x": "9",
+            "y": "1",
+            "source": "net170",
+            "gate": "SDN",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M5": {
+            "x": "11",
+            "y": "1",
+            "source": "net170",
+            "gate": "net185",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M21": {
+            "x": "13",
+            "y": "1",
+            "source": "net146",
+            "gate": "net181",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M8": {
+            "x": "15",
+            "y": "1",
+            "source": "net185",
+            "gate": "cn",
+            "drain": "net86",
+            "width": "120"
+        },
+        "M37": {
+            "x": "17",
+            "y": "1",
+            "source": "net130",
+            "gate": "SDN",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M35": {
+            "x": "19",
+            "y": "1",
+            "source": "net86",
+            "gate": "RDN",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M1": {
+            "x": "20",
+            "y": "1",
+            "source": "VDD",
+            "gate": "D",
+            "drain": "net174",
+            "width": "120"
+        },
+        "M36": {
+            "x": "22",
+            "y": "1",
+            "source": "net86",
+            "gate": "net170",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M27": {
+            "x": "24",
+            "y": "1",
+            "source": "net146",
+            "gate": "RDN",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M0": {
+            "x": "26",
+            "y": "1",
+            "source": "net174",
+            "gate": "c",
+            "drain": "net185",
+            "width": "120"
+        },
+        "M10": {
+            "x": "0",
+            "y": "0",
+            "source": "cn",
+            "gate": "CK",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M17": {
+            "x": "2",
+            "y": "0",
+            "source": "net181",
+            "gate": "cn",
+            "drain": "net198",
+            "width": "120"
+        },
+        "M4": {
+            "x": "27",
+            "y": "0",
+            "source": "net170",
+            "gate": "net185",
+            "drain": "net162",
+            "width": "200"
+        },
+        "M16": {
+            "x": "3",
+            "y": "0",
+            "source": "net198",
+            "gate": "net146",
+            "drain": "net186",
+            "width": "120"
+        },
+        "M12": {
+            "x": "5",
+            "y": "0",
+            "source": "VSS",
+            "gate": "cn",
+            "drain": "c",
+            "width": "200"
+        },
+        "M29": {
+            "x": "4",
+            "y": "0",
+            "source": "net186",
+            "gate": "SDN",
+            "drain": "VSS",
+            "width": "120"
+        },
+        "M3": {
+            "x": "8",
+            "y": "0",
+            "source": "net174",
+            "gate": "cn",
+            "drain": "net185",
+            "width": "120"
+        },
+        "M14": {
+            "x": "10",
+            "y": "0",
+            "source": "net170",
+            "gate": "c",
+            "drain": "net181",
+            "width": "200"
+        },
+        "M2": {
+            "x": "12",
+            "y": "0",
+            "source": "net174",
+            "gate": "D",
+            "drain": "VSS",
+            "width": "120"
+        },
+        "M22": {
+            "x": "14",
+            "y": "0",
+            "source": "Q",
+            "gate": "net146",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M22_finger1": {
+            "x": "16",
+            "y": "0",
+            "source": "Q",
+            "gate": "net146",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M26": {
+            "x": "17",
+            "y": "0",
+            "source": "VSS",
+            "gate": "SDN",
+            "drain": "net162",
+            "width": "200"
+        },
+        "M6": {
+            "x": "19",
+            "y": "0",
+            "source": "net158",
+            "gate": "RDN",
+            "drain": "VSS",
+            "width": "120"
+        },
+        "M7": {
+            "x": "21",
+            "y": "0",
+            "source": "net185",
+            "gate": "c",
+            "drain": "net150",
+            "width": "120"
+        },
+        "M9": {
+            "x": "22",
+            "y": "0",
+            "source": "net150",
+            "gate": "net170",
+            "drain": "net158",
+            "width": "120"
+        },
+        "M18": {
+            "x": "24",
+            "y": "0",
+            "source": "net146",
+            "gate": "RDN",
+            "drain": "net142",
+            "width": "200"
+        },
+        "M30": {
+            "x": "25",
+            "y": "0",
+            "source": "net142",
+            "gate": "net181",
+            "drain": "VSS",
+            "width": "200"
+        }
+    }
+}
