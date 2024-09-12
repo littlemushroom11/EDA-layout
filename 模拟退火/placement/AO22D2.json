@@ -1,0 +1,100 @@
+{
+    "placement": {
+        "M3": {
+            "x": "2",
+            "y": "1",
+            "source": "net39",
+            "gate": "A2",
+            "drain": "net24",
+            "width": "170"
+        },
+        "M2": {
+            "x": "11",
+            "y": "1",
+            "source": "net24",
+            "gate": "A1",
+            "drain": "net39",
+            "width": "170"
+        },
+        "M1": {
+            "x": "4",
+            "y": "1",
+            "source": "VDD",
+            "gate": "B2",
+            "drain": "net39",
+            "width": "170"
+        },
+        "M0": {
+            "x": "8",
+            "y": "1",
+            "source": "net39",
+            "gate": "B1",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "M4": {
+            "x": "0",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net24",
+            "drain": "Z",
+            "width": "170"
+        },
+        "M4_2": {
+            "x": "6",
+            "y": "1",
+            "source": "Z",
+            "gate": "net24",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "M9": {
+            "x": "10",
+            "y": "0",
+            "source": "VSS",
+            "gate": "A2",
+            "drain": "net12",
+            "width": "140"
+        },
+        "M8": {
+            "x": "5",
+            "y": "0",
+            "source": "net16",
+            "gate": "B2",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M7": {
+            "x": "8",
+            "y": "0",
+            "source": "net24",
+            "gate": "B1",
+            "drain": "net16",
+            "width": "140"
+        },
+        "M6": {
+            "x": "3",
+            "y": "0",
+            "source": "net12",
+            "gate": "A1",
+            "drain": "net24",
+            "width": "140"
+        },
+        "M5": {
+            "x": "1",
+            "y": "0",
+            "source": "Z",
+            "gate": "net24",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M5_2": {
+            "x": "6",
+            "y": "0",
+            "source": "VSS",
+            "gate": "net24",
+            "drain": "Z",
+            "width": "140"
+        }
+    }
+}

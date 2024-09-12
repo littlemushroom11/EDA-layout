@@ -1,0 +1,116 @@
+{
+    "placement": {
+        "M4": {
+            "x": "7",
+            "y": "1",
+            "source": "net096",
+            "gate": "S",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M5": {
+            "x": "0",
+            "y": "1",
+            "source": "net096",
+            "gate": "SN",
+            "drain": "net_52",
+            "width": "200"
+        },
+        "M0": {
+            "x": "2",
+            "y": "1",
+            "source": "net096",
+            "gate": "I1",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M54": {
+            "x": "8",
+            "y": "1",
+            "source": "VDD",
+            "gate": "S",
+            "drain": "SN",
+            "width": "200"
+        },
+        "M52": {
+            "x": "4",
+            "y": "1",
+            "source": "Z",
+            "gate": "net_52",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M52_finger1": {
+            "x": "5",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net_52",
+            "drain": "Z",
+            "width": "200"
+        },
+        "M50": {
+            "x": "1",
+            "y": "1",
+            "source": "net_52",
+            "gate": "I0",
+            "drain": "net096",
+            "width": "200"
+        },
+        "M3": {
+            "x": "1",
+            "y": "0",
+            "source": "net077",
+            "gate": "I0",
+            "drain": "net_52",
+            "width": "200"
+        },
+        "M2": {
+            "x": "0",
+            "y": "0",
+            "source": "VSS",
+            "gate": "SN",
+            "drain": "net077",
+            "width": "200"
+        },
+        "M53": {
+            "x": "7",
+            "y": "0",
+            "source": "SN",
+            "gate": "S",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M1": {
+            "x": "8",
+            "y": "0",
+            "source": "VSS",
+            "gate": "S",
+            "drain": "net065",
+            "width": "200"
+        },
+        "M49": {
+            "x": "2",
+            "y": "0",
+            "source": "net_52",
+            "gate": "I1",
+            "drain": "net065",
+            "width": "200"
+        },
+        "M51": {
+            "x": "4",
+            "y": "0",
+            "source": "VSS",
+            "gate": "net_52",
+            "drain": "Z",
+            "width": "120"
+        },
+        "M51_finger1": {
+            "x": "5",
+            "y": "0",
+            "source": "Z",
+            "gate": "net_52",
+            "drain": "VSS",
+            "width": "120"
+        }
+    }
+}

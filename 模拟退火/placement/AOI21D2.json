@@ -1,0 +1,100 @@
+{
+    "placement": {
+        "M7": {
+            "x": "9",
+            "y": "1",
+            "source": "VDD",
+            "gate": "B",
+            "drain": "net30",
+            "width": "170"
+        },
+        "M7_2": {
+            "x": "8",
+            "y": "1",
+            "source": "net30",
+            "gate": "B",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "M6": {
+            "x": "2",
+            "y": "1",
+            "source": "ZN",
+            "gate": "A2",
+            "drain": "net30",
+            "width": "170"
+        },
+        "M6_2": {
+            "x": "6",
+            "y": "1",
+            "source": "net30",
+            "gate": "A2",
+            "drain": "ZN",
+            "width": "170"
+        },
+        "M3": {
+            "x": "4",
+            "y": "1",
+            "source": "net30",
+            "gate": "A1",
+            "drain": "ZN",
+            "width": "170"
+        },
+        "M3_2": {
+            "x": "1",
+            "y": "1",
+            "source": "net30",
+            "gate": "A1",
+            "drain": "ZN",
+            "width": "170"
+        },
+        "M5": {
+            "x": "7",
+            "y": "0",
+            "source": "ZN",
+            "gate": "A1",
+            "drain": "net027",
+            "width": "140"
+        },
+        "M4": {
+            "x": "2",
+            "y": "0",
+            "source": "net027",
+            "gate": "A2",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M2": {
+            "x": "10",
+            "y": "0",
+            "source": "VSS",
+            "gate": "A2",
+            "drain": "net7",
+            "width": "140"
+        },
+        "M1": {
+            "x": "0",
+            "y": "0",
+            "source": "net7",
+            "gate": "A1",
+            "drain": "ZN",
+            "width": "140"
+        },
+        "M0": {
+            "x": "3",
+            "y": "0",
+            "source": "VSS",
+            "gate": "B",
+            "drain": "ZN",
+            "width": "140"
+        },
+        "M0_2": {
+            "x": "9",
+            "y": "0",
+            "source": "ZN",
+            "gate": "B",
+            "drain": "VSS",
+            "width": "140"
+        }
+    }
+}

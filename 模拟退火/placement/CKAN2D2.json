@@ -1,0 +1,84 @@
+{
+    "placement": {
+        "XM5": {
+            "x": "1",
+            "y": "1",
+            "source": "VDD",
+            "gate": "A1",
+            "drain": "_SP_19",
+            "width": "180"
+        },
+        "XM6": {
+            "x": "3",
+            "y": "1",
+            "source": "VDD",
+            "gate": "A2",
+            "drain": "_SP_19",
+            "width": "180"
+        },
+        "XM7": {
+            "x": "9",
+            "y": "1",
+            "source": "Z",
+            "gate": "_SP_19",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "XM7_2": {
+            "x": "5",
+            "y": "1",
+            "source": "Z",
+            "gate": "_SP_19",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "XM1": {
+            "x": "10",
+            "y": "0",
+            "source": "_SP_11",
+            "gate": "A1",
+            "drain": "_SP_19",
+            "width": "140"
+        },
+        "XM1_finger1": {
+            "x": "6",
+            "y": "0",
+            "source": "_SP_19",
+            "gate": "A1",
+            "drain": "_SP_11",
+            "width": "135"
+        },
+        "XM2": {
+            "x": "3",
+            "y": "0",
+            "source": "_SP_11",
+            "gate": "A2",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "XM2_finger1": {
+            "x": "4",
+            "y": "0",
+            "source": "VSS",
+            "gate": "A2",
+            "drain": "_SP_11",
+            "width": "135"
+        },
+        "XM3": {
+            "x": "8",
+            "y": "0",
+            "source": "VSS",
+            "gate": "_SP_19",
+            "drain": "Z",
+            "width": "140"
+        },
+        "XM3_2": {
+            "x": "0",
+            "y": "0",
+            "source": "Z",
+            "gate": "_SP_19",
+            "drain": "VSS",
+            "width": "140"
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "placement": {
+        "M7": {
+            "x": "8",
+            "y": "1",
+            "source": "net53",
+            "gate": "B1",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M7_finger1": {
+            "x": "5",
+            "y": "1",
+            "source": "VDD",
+            "gate": "B1",
+            "drain": "net53",
+            "width": "200"
+        },
+        "M8": {
+            "x": "1",
+            "y": "1",
+            "source": "net72",
+            "gate": "A2",
+            "drain": "ZN",
+            "width": "200"
+        },
+        "M8_finger1": {
+            "x": "2",
+            "y": "1",
+            "source": "ZN",
+            "gate": "A2",
+            "drain": "net72",
+            "width": "200"
+        },
+        "M5": {
+            "x": "7",
+            "y": "1",
+            "source": "VDD",
+            "gate": "B2",
+            "drain": "net53",
+            "width": "200"
+        },
+        "M5_finger1": {
+            "x": "6",
+            "y": "1",
+            "source": "net53",
+            "gate": "B2",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M0": {
+            "x": "10",
+            "y": "1",
+            "source": "net72",
+            "gate": "A1",
+            "drain": "ZN",
+            "width": "200"
+        },
+        "M0_finger1": {
+            "x": "11",
+            "y": "1",
+            "source": "ZN",
+            "gate": "A1",
+            "drain": "net72",
+            "width": "200"
+        },
+        "MP1": {
+            "x": "0",
+            "y": "1",
+            "source": "net53",
+            "gate": "C",
+            "drain": "net72",
+            "width": "200"
+        },
+        "MP1_finger1": {
+            "x": "3",
+            "y": "1",
+            "source": "net72",
+            "gate": "C",
+            "drain": "net53",
+            "width": "200"
+        },
+        "MN1": {
+            "x": "2",
+            "y": "0",
+            "source": "net81",
+            "gate": "A2",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "MN1_finger1": {
+            "x": "1",
+            "y": "0",
+            "source": "VSS",
+            "gate": "A2",
+            "drain": "net81",
+            "width": "200"
+        },
+        "M6": {
+            "x": "0",
+            "y": "0",
+            "source": "ZN",
+            "gate": "C",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M6_finger1": {
+            "x": "3",
+            "y": "0",
+            "source": "VSS",
+            "gate": "C",
+            "drain": "ZN",
+            "width": "200"
+        },
+        "M4": {
+            "x": "5",
+            "y": "0",
+            "source": "ZN",
+            "gate": "B1",
+            "drain": "N3",
+            "width": "200"
+        },
+        "M4_finger1": {
+            "x": "8",
+            "y": "0",
+            "source": "N3",
+            "gate": "B1",
+            "drain": "ZN",
+            "width": "200"
+        },
+        "M9": {
+            "x": "7",
+            "y": "0",
+            "source": "VSS",
+            "gate": "B2",
+            "drain": "N3",
+            "width": "200"
+        },
+        "M9_finger1": {
+            "x": "6",
+            "y": "0",
+            "source": "N3",
+            "gate": "B2",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M1": {
+            "x": "10",
+            "y": "0",
+            "source": "net81",
+            "gate": "A1",
+            "drain": "ZN",
+            "width": "200"
+        },
+        "M1_finger1": {
+            "x": "11",
+            "y": "0",
+            "source": "ZN",
+            "gate": "A1",
+            "drain": "net81",
+            "width": "200"
+        }
+    }
+}

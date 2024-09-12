@@ -1,0 +1,196 @@
+{
+    "placement": {
+        "M15": {
+            "x": "16",
+            "y": "1",
+            "source": "m",
+            "gate": "pm",
+            "drain": "VDD",
+            "width": "120"
+        },
+        "M13": {
+            "x": "0",
+            "y": "1",
+            "source": "VDD",
+            "gate": "E",
+            "drain": "nt11",
+            "width": "125"
+        },
+        "M11": {
+            "x": "2",
+            "y": "1",
+            "source": "cn",
+            "gate": "CK",
+            "drain": "VDD",
+            "width": "125"
+        },
+        "M20": {
+            "x": "3",
+            "y": "1",
+            "source": "VDD",
+            "gate": "cn",
+            "drain": "nt13",
+            "width": "125"
+        },
+        "M14": {
+            "x": "5",
+            "y": "1",
+            "source": "pm",
+            "gate": "c",
+            "drain": "nt11",
+            "width": "125"
+        },
+        "M21": {
+            "x": "4",
+            "y": "1",
+            "source": "nt13",
+            "gate": "m",
+            "drain": "pm",
+            "width": "125"
+        },
+        "M17": {
+            "x": "17",
+            "y": "1",
+            "source": "VDD",
+            "gate": "c",
+            "drain": "s",
+            "width": "120"
+        },
+        "M18": {
+            "x": "8",
+            "y": "1",
+            "source": "nt21",
+            "gate": "m",
+            "drain": "s",
+            "width": "120"
+        },
+        "M16": {
+            "x": "7",
+            "y": "1",
+            "source": "VDD",
+            "gate": "TE",
+            "drain": "nt21",
+            "width": "120"
+        },
+        "M19": {
+            "x": "10",
+            "y": "1",
+            "source": "VDD",
+            "gate": "s",
+            "drain": "Q",
+            "width": "200"
+        },
+        "M19_finger1": {
+            "x": "12",
+            "y": "1",
+            "source": "Q",
+            "gate": "s",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M12": {
+            "x": "14",
+            "y": "1",
+            "source": "c",
+            "gate": "cn",
+            "drain": "VDD",
+            "width": "125"
+        },
+        "M2": {
+            "x": "0",
+            "y": "0",
+            "source": "pm",
+            "gate": "E",
+            "drain": "nt12",
+            "width": "125"
+        },
+        "M0": {
+            "x": "2",
+            "y": "0",
+            "source": "VSS",
+            "gate": "CK",
+            "drain": "cn",
+            "width": "125"
+        },
+        "M4": {
+            "x": "16",
+            "y": "0",
+            "source": "m",
+            "gate": "pm",
+            "drain": "VSS",
+            "width": "120"
+        },
+        "M9": {
+            "x": "5",
+            "y": "0",
+            "source": "nt14",
+            "gate": "c",
+            "drain": "pm",
+            "width": "125"
+        },
+        "M10": {
+            "x": "4",
+            "y": "0",
+            "source": "VSS",
+            "gate": "m",
+            "drain": "nt14",
+            "width": "125"
+        },
+        "M1": {
+            "x": "14",
+            "y": "0",
+            "source": "VSS",
+            "gate": "cn",
+            "drain": "c",
+            "width": "125"
+        },
+        "M3": {
+            "x": "1",
+            "y": "0",
+            "source": "nt12",
+            "gate": "cn",
+            "drain": "VSS",
+            "width": "125"
+        },
+        "M7": {
+            "x": "7",
+            "y": "0",
+            "source": "s",
+            "gate": "TE",
+            "drain": "net256",
+            "width": "200"
+        },
+        "M8": {
+            "x": "10",
+            "y": "0",
+            "source": "Q",
+            "gate": "s",
+            "drain": "VSS",
+            "width": "120"
+        },
+        "M8_finger1": {
+            "x": "12",
+            "y": "0",
+            "source": "Q",
+            "gate": "s",
+            "drain": "VSS",
+            "width": "120"
+        },
+        "M6": {
+            "x": "8",
+            "y": "0",
+            "source": "net256",
+            "gate": "m",
+            "drain": "s",
+            "width": "200"
+        },
+        "M5": {
+            "x": "17",
+            "y": "0",
+            "source": "VSS",
+            "gate": "c",
+            "drain": "net256",
+            "width": "200"
+        }
+    }
+}

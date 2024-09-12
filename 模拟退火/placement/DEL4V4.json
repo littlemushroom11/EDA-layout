@@ -1,0 +1,180 @@
+{
+    "placement": {
+        "M14": {
+            "x": "0",
+            "y": "1",
+            "source": "net0103",
+            "gate": "net23",
+            "drain": "net083",
+            "width": "200"
+        },
+        "M15": {
+            "x": "2",
+            "y": "1",
+            "source": "net083",
+            "gate": "net23",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M1": {
+            "x": "3",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net11",
+            "drain": "net087",
+            "width": "200"
+        },
+        "M2": {
+            "x": "4",
+            "y": "1",
+            "source": "net087",
+            "gate": "net11",
+            "drain": "net0107",
+            "width": "200"
+        },
+        "M11": {
+            "x": "6",
+            "y": "1",
+            "source": "net19",
+            "gate": "net23",
+            "drain": "net38",
+            "width": "200"
+        },
+        "M10": {
+            "x": "7",
+            "y": "1",
+            "source": "net38",
+            "gate": "net23",
+            "drain": "net0103",
+            "width": "200"
+        },
+        "M7": {
+            "x": "10",
+            "y": "1",
+            "source": "net42",
+            "gate": "net11",
+            "drain": "net0107",
+            "width": "200"
+        },
+        "M6": {
+            "x": "9",
+            "y": "1",
+            "source": "net23",
+            "gate": "net11",
+            "drain": "net42",
+            "width": "200"
+        },
+        "M3": {
+            "x": "13",
+            "y": "1",
+            "source": "Z",
+            "gate": "net19",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M3_finger1": {
+            "x": "12",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net19",
+            "drain": "Z",
+            "width": "200"
+        },
+        "M4": {
+            "x": "15",
+            "y": "1",
+            "source": "net11",
+            "gate": "I",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M16": {
+            "x": "1",
+            "y": "0",
+            "source": "VSS",
+            "gate": "net11",
+            "drain": "net048",
+            "width": "120"
+        },
+        "M17": {
+            "x": "3",
+            "y": "0",
+            "source": "net044",
+            "gate": "net11",
+            "drain": "net048",
+            "width": "120"
+        },
+        "M18": {
+            "x": "5",
+            "y": "0",
+            "source": "net036",
+            "gate": "net23",
+            "drain": "net040",
+            "width": "120"
+        },
+        "M19": {
+            "x": "0",
+            "y": "0",
+            "source": "net036",
+            "gate": "net23",
+            "drain": "VSS",
+            "width": "120"
+        },
+        "M13": {
+            "x": "7",
+            "y": "0",
+            "source": "net3",
+            "gate": "net23",
+            "drain": "net19",
+            "width": "120"
+        },
+        "M12": {
+            "x": "6",
+            "y": "0",
+            "source": "net040",
+            "gate": "net23",
+            "drain": "net3",
+            "width": "120"
+        },
+        "M9": {
+            "x": "9",
+            "y": "0",
+            "source": "net044",
+            "gate": "net11",
+            "drain": "net7",
+            "width": "120"
+        },
+        "M8": {
+            "x": "10",
+            "y": "0",
+            "source": "net7",
+            "gate": "net11",
+            "drain": "net23",
+            "width": "120"
+        },
+        "M0": {
+            "x": "12",
+            "y": "0",
+            "source": "Z",
+            "gate": "net19",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M0_finger1": {
+            "x": "13",
+            "y": "0",
+            "source": "VSS",
+            "gate": "net19",
+            "drain": "Z",
+            "width": "200"
+        },
+        "M5": {
+            "x": "15",
+            "y": "0",
+            "source": "VSS",
+            "gate": "I",
+            "drain": "net11",
+            "width": "120"
+        }
+    }
+}

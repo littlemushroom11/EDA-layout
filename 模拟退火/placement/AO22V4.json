@@ -1,0 +1,100 @@
+{
+    "placement": {
+        "M1": {
+            "x": "5",
+            "y": "1",
+            "source": "net48",
+            "gate": "A1",
+            "drain": "net35",
+            "width": "200"
+        },
+        "M5": {
+            "x": "1",
+            "y": "1",
+            "source": "Z",
+            "gate": "net48",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M5_finger1": {
+            "x": "0",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net48",
+            "drain": "Z",
+            "width": "200"
+        },
+        "M2": {
+            "x": "4",
+            "y": "1",
+            "source": "net35",
+            "gate": "A2",
+            "drain": "net48",
+            "width": "200"
+        },
+        "M0": {
+            "x": "3",
+            "y": "1",
+            "source": "VDD",
+            "gate": "B2",
+            "drain": "net35",
+            "width": "200"
+        },
+        "M28": {
+            "x": "6",
+            "y": "1",
+            "source": "net35",
+            "gate": "B1",
+            "drain": "VDD",
+            "width": "200"
+        },
+        "M8": {
+            "x": "4",
+            "y": "0",
+            "source": "VSS",
+            "gate": "A2",
+            "drain": "net44",
+            "width": "200"
+        },
+        "M6": {
+            "x": "0",
+            "y": "0",
+            "source": "Z",
+            "gate": "net48",
+            "drain": "VSS",
+            "width": "200"
+        },
+        "M6_finger1": {
+            "x": "1",
+            "y": "0",
+            "source": "VSS",
+            "gate": "net48",
+            "drain": "Z",
+            "width": "200"
+        },
+        "M3": {
+            "x": "6",
+            "y": "0",
+            "source": "net48",
+            "gate": "B1",
+            "drain": "net56",
+            "width": "200"
+        },
+        "M9": {
+            "x": "5",
+            "y": "0",
+            "source": "net44",
+            "gate": "A1",
+            "drain": "net48",
+            "width": "200"
+        },
+        "M4": {
+            "x": "3",
+            "y": "0",
+            "source": "net56",
+            "gate": "B2",
+            "drain": "VSS",
+            "width": "200"
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "placement": {
+        "M23": {
+            "x": "7",
+            "y": "1",
+            "source": "VDD",
+            "gate": "A4",
+            "drain": "net26",
+            "width": "170"
+        },
+        "M4": {
+            "x": "3",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net26",
+            "drain": "Z",
+            "width": "170"
+        },
+        "M4_2": {
+            "x": "9",
+            "y": "1",
+            "source": "VDD",
+            "gate": "net26",
+            "drain": "Z",
+            "width": "170"
+        },
+        "M16": {
+            "x": "2",
+            "y": "1",
+            "source": "net26",
+            "gate": "A3",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "M17": {
+            "x": "8",
+            "y": "1",
+            "source": "net26",
+            "gate": "A1",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "M18": {
+            "x": "6",
+            "y": "1",
+            "source": "net26",
+            "gate": "A2",
+            "drain": "VDD",
+            "width": "170"
+        },
+        "M5": {
+            "x": "0",
+            "y": "0",
+            "source": "Z",
+            "gate": "net26",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M5_2": {
+            "x": "4",
+            "y": "0",
+            "source": "Z",
+            "gate": "net26",
+            "drain": "VSS",
+            "width": "140"
+        },
+        "M22": {
+            "x": "12",
+            "y": "0",
+            "source": "net26",
+            "gate": "A1",
+            "drain": "net030",
+            "width": "140"
+        },
+        "M20": {
+            "x": "10",
+            "y": "0",
+            "source": "net038",
+            "gate": "A3",
+            "drain": "net034",
+            "width": "140"
+        },
+        "M19": {
+            "x": "6",
+            "y": "0",
+            "source": "net030",
+            "gate": "A2",
+            "drain": "net034",
+            "width": "140"
+        },
+        "M21": {
+            "x": "1",
+            "y": "0",
+            "source": "VSS",
+            "gate": "A4",
+            "drain": "net038",
+            "width": "140"
+        }
+    }
+}
